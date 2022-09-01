@@ -1,4 +1,4 @@
-## Conniseur of undocumented APIs
+## I poke at stuff
 
 Don't see any activity on Github or Gitlab? Might be using Plastic for Unity projects. Go check out my other accounts though!
 - ⚡ Misc Non-Github Projects https://gitlab.com/narryg
@@ -15,10 +15,8 @@ Easily corrupt videogames and programs in real-time with this free open-source s
 -  Wrote a library to inject into processes that attempts to hijack their exception handlers and make them keep running
 -  Learned Unity well enough to make a multiplayer game supporting 350 users per instance within 4 months because I hate myself and love raising money for charity
 -  Did that Unity thing a second time but supporting 600 players
--  Consistently forget I'm playing a game and instead start vuln-hunting 
+-  Consistently forget I'm playing a game and start poking to see what makes it tick
 
 
 
-##### You should validate your inputs or else I'm going to tell you you forgot to
-
-###### Narry was here
+##### Validate your inputs or else I WILL break your software
